@@ -1,0 +1,28 @@
+{"rows" : [ {
+    "LSOA_code" : "E01024033",
+    "Context" : "",
+    "Month" : "2017-07",
+    "LSOA_name" : "Ashford 002E",
+    "Last_outcome_category" : "Investigation complete; no suspect identified",
+    "Reported_by" : "Metropolitan Police Service",
+    "Crime_type" : "Other theft",
+    "Crime_ID" : "5ac3055389bf0d7f7598892a8835ce3b3a2745218bde6f9d16de014ee837ec1e",
+    "Falls_within" : "Metropolitan Police Service",
+    "Latitude" : "51.210698",
+    "Longitude" : "0.763024",
+    "Location" : "On or near Wind Hill Lane"
+  }, {
+    "LSOA_code" : "E01000225",
+    "Context" : "",
+    "Month" : "2017-07",
+    "LSOA_name" : "Barnet 037F",
+    "Last_outcome_category" : "Investigation complete; no suspect identified",
+    "Reported_by" : "Metropolitan Police Service",
+    "Crime_type" : "Violence and sexual offences",
+    "Crime_ID" : "f6f62d8bc00c7c924c89f2b7af4cc5bdff3576f4ef37266ad8a6ce68d4f5242a",
+    "Falls_within" : "Metropolitan Police Service",
+    "Latitude" : "51.589424",
+    "Longitude" : "-0.202294",
+    "Location" : "On or near North Circular Road"
+  } ]
+}
